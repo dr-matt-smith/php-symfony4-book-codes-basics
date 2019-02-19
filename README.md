@@ -9,3 +9,5 @@ Below are links to the project for the BASICS part of the book
 
 1. https://github.com/dr-matt-smith/php-symfony4-book-codes-basics-01-hello-response
 
+2. https://github.com/dr-matt-smith/php-symfony4-book-codes-basics-02-twig-hello-world
+
