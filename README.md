@@ -13,3 +13,5 @@ Below are links to the project for the BASICS part of the book
 
 3. https://github.com/dr-matt-smith/php-symfony4-book-codes-basics-03-own-classes
 
+4. https://github.com/dr-matt-smith/https-github.com-dr-matt-smith-php-symfony4-book-codes-basics-04-diy-repositories
+
