@@ -11,3 +11,5 @@ Below are links to the project for the BASICS part of the book
 
 2. https://github.com/dr-matt-smith/php-symfony4-book-codes-basics-02-twig-hello-world
 
+3. https://github.com/dr-matt-smith/php-symfony4-book-codes-basics-03-own-classes
+
